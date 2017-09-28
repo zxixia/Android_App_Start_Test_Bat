@@ -1,4 +1,5 @@
 # Android_App_Start_Test_Bat
+```shell
 Android App Launch Time test bat version 1.0.2
 Author: xixia
 input format:
@@ -19,3 +20,4 @@ parameter explain:
                                     -  4 : adb reboot : to restart the device
 example:
   start-activity -t 5 -a com.android.calculator2/.Calculator -c com.android.calculator2 -k 2
+```
